@@ -1,2 +1,2 @@
-# Movie_Reccomendation_System
+# Movie_Recommendation_System
 Using Cosine Similarity to build Movie recommendation system
